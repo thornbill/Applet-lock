@@ -1,0 +1,10 @@
+A Cinnamon applet that shows whether the Caps and Num locks are on.
+
+Forked from https://extensions.gnome.org/extension/36/lock-keys/
+
+Change Log:
+1.0.1
+Changed icon size to 18
+
+1.0
+Initial Release
